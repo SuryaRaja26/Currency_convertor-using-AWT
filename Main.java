@@ -42,7 +42,7 @@ class convertor implements ActionListener{
         b2.addActionListener(this);
         j.setVisible(true);
         j.setLayout(new FlowLayout());
-        j.setSize(400,400);
+        j.setSize(450,450);
     }
     public void actionPerformed(ActionEvent e){
          double value=0;
